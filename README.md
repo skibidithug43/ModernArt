@@ -27,8 +27,8 @@ Dimensions no smaller than 400 x 600 and no larger than 600 x 900
 
 RESOURCES 
 -------
-[Modern Art Presentation](https://docs.google.com/presentation/d/1iPbKMzow4sgfISpP158Ocw5t1ecvk7Wzw5ygIjQJ-Ck/edit?usp=sharing)
-[Geometric Modern Art - Vocabulary and History](https://docs.google.com/document/d/1ksHgV1OJhqAfJT53bLIKOpbCEIb_lZSb/edit?usp=sharing&ouid=104288746284471816765&rtpof=true&sd=true)
+[Modern Art Presentation](https://docs.google.com/presentation/d/1iPbKMzow4sgfISpP158Ocw5t1ecvk7Wzw5ygIjQJ-Ck/edit?usp=sharing)<br/>
+[Geometric Modern Art - Vocabulary and History](https://docs.google.com/document/d/1ksHgV1OJhqAfJT53bLIKOpbCEIb_lZSb/edit?usp=sharing&ouid=104288746284471816765&rtpof=true&sd=true)<br/>
 
 
 
