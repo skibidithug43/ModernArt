@@ -1,5 +1,7 @@
 MODERN ART CODE PROJECT
 ------
+![artwork](https://github.com/user-attachments/assets/cd57996c-7b2d-4028-a180-4a5b46947c86)
+
 ESSENTIAL GOALS
 ---------
 Document programs in order to make them easier to follow, test, and debug. 2-AP-19
