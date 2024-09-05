@@ -1,6 +1,6 @@
 MODERN ART CODE PROJECT
 ------
-![artwork](https://github.com/user-attachments/assets/cd57996c-7b2d-4028-a180-4a5b46947c86)
+![artwork](https://github.com/user-attachments/assets/modernArtSample.png)
 
 ESSENTIAL GOALS
 ---------
